@@ -1,0 +1,57 @@
+body{
+    font-size: 30px;
+    font-family: sans-serif;
+    background-color: aqua;
+    padding-top: 20vh;
+    margin-top: 6%;
+   
+}
+.container{
+    text-align: center;
+    background-color: goldenrod;
+    width: 410px;
+    padding: 16px;
+    margin-left: 36%;
+    margin-top: -6%;
+    
+}
+.container h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    padding-bottom: 10%;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
+#btn{
+    /* cursor: pointer;
+    background: black;
+    color: darkkhaki;
+    font-size: 20px;
+    font-family: cursive; */
+    cursor: pointer;
+    width: 308px;
+    height: 42px;
+    background-color: rgb(5, 103, 251);
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    margin-top: 4%;
+    font-size: 20px;
+}
+
+#joke{
+    font-family: inherit;
+    letter-spacing: 3px;
+    font-size: 25px;
+}
+
+#pid{
+    font-size: 25px;
+    color:darkblue;
+    font-weight: 700;
+}
